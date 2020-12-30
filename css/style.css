@@ -1,0 +1,41 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  background-image: url(/img/gastos.jpg);
+  background-size: cover;
+}
+
+.claseFormulario {
+  padding-bottom: 20px;
+}
+#botonDeEnvio {
+  font-size: 23px;
+}
+td,
+th {
+  border: solid 1px red;
+  padding: 10px;
+  text-align: center;
+}
+.tableFormat table {
+  margin: 0 auto;
+}
+
+input {
+  border: none;
+}
+body {
+  font-family: "Kalam", cursive !important;
+}
